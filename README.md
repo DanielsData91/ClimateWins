@@ -2,27 +2,29 @@
 
 ![Brazil](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/E-Commerce.jpg)
 
-## Overview
-This project aims to uncover hidden sales patterns through exploratory data analysis using Python. The analysis focuses on customer demographics, purchasing behavior, and operational efficiency. Various analytical techniques, including regression and clustering analysis, were applied to gain insights into revenue, customer segmentation, shipping performance, product performance, and time-based sales trends.
+# Introduction
+## Objectives
+- **ClimateWins is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world.**
+- **It’s been sorting through hurricane predictions from The National Oceanic and Atmospheric Administration (NOAA) in the U.S., typhoon data from The Japan Meteorological Agency (JMA) in Japan, world temperatures, and a great deal of other data.**
 
-## Key Analytical Areas
-- **Revenue Analysis**
-- **Customer Segmentation Analysis**
-- **Efficiency Analysis**
-- **Product Performance Analysis**
-- **Time-based Trend Analysis**
+## Key Questions
+- **1: How is machine learning used? Is it applicable to weather data?**
+- **2: ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are there any concerns specific to this project?**
+- **3: Historically, what have the maximums and minimums in temperature been?**
+- **4: Can machine learning be used to predict whether weather conditions will be favorable on a certain day? (If so, it could also be possible to predict danger.)**
 
-## Hypothesis Testing
+## Hypothesis 
 Hypotheses were tested using Regression Analysis and Clustering Analysis:
 
-- **Hypothesis 1:** Higher shipping time leads to longer shipping durations.
-- **Hypothesis 2:** Higher product prices correlate with higher freight values.
-- **Hypothesis 3:** Longer estimated shipping durations result in higher freight values.
+- **Hypothesis 1 Caputure:** Which machine learning models are suitable for accurate forecasting extreme weather conditions?
+- **Hypothesis 2 Temperature** Can machine learning predict significant temperature increases in Europe over the next decade?
+- **Hypothesis 3 Correlation:** What correlations can be identified between temperature and variables like economy, cityscape, and air quality?
 
 ---
 
 ## 1. Project Description
-As a data analyst for this project, I conducted an exploratory analysis focusing on revenue, customer segmentation, shipping efficiency, and product performance. The goal was to assess the current state of a Brazilian e-commerce company and support the development of a franchise program. Key objectives included identifying top-performing products, assessing shipping efficiency, and locating high-value customers.
+As a data analyst for this project, I conducted an analysis to test whether machine learning modules are capable of predicting future weather conditions. I tested different MLMs like KNN, Decision Tree, and ANNs to determine the highest accuracy among these supervised machine learning algorithms.
+
 
 ---
 
