@@ -1,6 +1,6 @@
 # CareerFoundry Project: ClimateWins
 
-![Brazil](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/E-Commerce.jpg)
+![ClimateWins](https://github.com/DanielsData91/ClimateWins/blob/main/Master%20Folder%20-%20Project%20ClimateWins/ClimateWins%20-%20Presentation.jpg)
 
 # Introduction
 ## Objectives
